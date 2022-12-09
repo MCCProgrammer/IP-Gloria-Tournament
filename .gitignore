@@ -1,0 +1,6 @@
+bin/
+*.class
+*.zip
+.DS_Store
+# the original example from the assignment statement stays local
+boards-from-statement.txt
